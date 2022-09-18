@@ -1,0 +1,131 @@
+.main{
+    display: flex;
+    justify-content: center;
+    justify-content:space-between;
+    background-color:black;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.logo{
+    font-style: oblique;
+    font-size:40px;
+    color:red;
+    margin-right: 300px;
+    margin-left: 30px;
+}
+
+a{
+    color:red;
+    margin-bottom: 10px;    
+}
+
+.l1{
+    align-self: center;
+}
+
+.l2{
+    align-self: center;
+}
+
+.l3{
+    align-self: center;
+}
+
+.l4{
+    align-self:center;
+    margin-right: 30px;
+}
+
+.statement{
+    color:black;
+}
+
+.footer{
+    margin-top: 0;
+    background-color:lightgray;
+    display: flex;
+    padding-top:150px;
+    padding-bottom:30px;
+}
+
+.backing{
+    display: flex;
+    flex-direction: column;
+    margin-left:100px;
+}
+
+.mvh{
+    margin-left:50px;
+    margin-right:50px;
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    background-color:lightgray ;
+    padding-top: 50px;
+}
+
+.abc{
+    color:red;
+}
+.e1{
+    align-self: center;
+    font-size: 30px;
+    font-style:oblique;
+    margin-top:50px;.
+    padding-bottom: 0px;
+
+}
+
+.e2{
+    align-self: center;
+    padding-bottom: 30px;
+}
+
+.ohboy{
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    gap: 20px;
+    background-color: black;
+}
+
+.strike1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.strike2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.strike3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.bye{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+    color: darkgoldenrod;
+    padding-right:150px;
+    padding-left:150px;
+    padding-top:30px;
+    padding-bottom:30px;
+
+}
+
+.john{
+    padding-left:180px;
+}
+
+.space{
+    padding-top:8px;
+    padding-bottom:12px;
+}
