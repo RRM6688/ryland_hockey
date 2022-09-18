@@ -1,2 +1,2 @@
 # Intro
-Hello this is a introdution to my mite hockey player
+Hello, this is an introdution to my mite hockey player.
